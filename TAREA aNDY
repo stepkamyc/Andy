@@ -1,0 +1,79 @@
+Andy Stepka Mycop 231196 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Temas Ambientales</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #f2f2f2;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #333;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Temas Ambientales</h1>
+  </header>
+  <nav>
+    <a href="#la-gran-niebla-de-1952">La Gran Niebla de 1952</a>
+    <a href="#la-lluvia-acida">La Lluvia Ácida</a>
+    <a href="#calentamiento-global">Calentamiento Global</a>
+    <a href="#acuerdo-de-paris">Acuerdo de París</a>
+    <a href="#conclusion">Conclusión</a>
+  </nav>
+  <section id="la-gran-niebla-de-1952">
+    <h2>La Gran Niebla de 1952 en Londres</h2>
+    <p>La Gran Niebla de 1952 en Londres fue un evento ambiental devastador que ocurrió en el Reino Unido. La principal causa de este fenómeno fue la combustión excesiva de carbón para calentar los hogares y generar energía, lo que provocó una alta concentración de contaminantes en el aire. Los efectos fueron dramáticos, con miles de muertes atribuidas a la niebla y un impacto significativo en la salud de la población y el medio ambiente.</p>
+  </section>
+  <section id="la-lluvia-acida">
+    <h2>La Lluvia Ácida</h2>
+    <p>La lluvia ácida es un fenómeno en el que la precipitación, como la lluvia, la nieve o la niebla, se contamina con sustancias químicas, principalmente óxidos de azufre y nitrógeno, que se liberan a la atmósfera por la actividad humana, como la quema de combustibles fósiles. Esto tiene efectos devastadores en los ecosistemas, la vida acuática, los bosques y la infraestructura, causando daños a largo plazo en el planeta Tierra.</p>
+  </section>
+  <section id="calentamiento-global">
+    <h2>Calentamiento Global, Cambio Climático y Efecto Invernadero</h2>
+    <p>El calentamiento global, el cambio climático y el efecto invernadero son fenómenos interrelacionados que amenazan la salud y el bienestar del planeta Tierra. El aumento de las emisiones de gases de efecto invernadero, como el dióxido de carbono y el metano, atrapan más calor en la atmósfera, lo que provoca el aumento de las temperaturas globales, la alteración de los patrones climáticos, el derretimiento de los glaciares, el aumento del nivel del mar y la acidificación de los océanos. Estos cambios tienen consecuencias graves, como la desertificación, la escasez de agua, la pérdida de biodiversidad y un mayor riesgo de desastres naturales.</p>
+  </section>
+  <section id="acuerdo-de-paris">
+    <h2>El Acuerdo de París de 2016</h2>
+    <p>El Acuerdo de París de 2016 es un acuerdo internacional que tiene como objetivo limitar el aumento de la temperatura global a menos de 2°C por encima de los niveles preindustriales, y hacer esfuerzos para limitar este aumento a 1,5°C. Para lograr esto, los países firmantes se han comprometido a reducir sus emisiones de gases de efecto invernadero y a tomar medidas para adaptarse a los impactos del cambio climático. Sin embargo, el Acuerdo enfrenta desafíos, como la falta de compromiso de algunos países, la financiación insuficiente y la necesidad de una acción más urgente y ambiciosa para abordar la crisis climática.</p>
+  </section>
+  <section id="conclusion">
+    <h2>Conclusiones y Opinión Personal</h2>
+    <p>Los temas del calentamiento global, el cambio climático y el efecto invernadero son de suma importancia y deben preocuparnos a todos. Estos fenómenos tienen graves consecuencias para el planeta Tierra y para la vida de todas las especies, incluida la humana. La Gran Niebla de 1952 en Londres y la lluvia ácida son ejemplos de cómo la contaminación y la actividad humana pueden tener un impacto devastador en el medio ambiente. El Acuerdo de París de 2016 es un intento importante de abordar estos problemas a nivel global, pero aún queda mucho por hacer. Debemos tomar conciencia de nuestras acciones y adoptar estilos de vida más sostenibles para proteger nuestro hogar común, el planeta Tierra, y asegurar un futuro más saludable y próspero para las generaciones venideras.</p>
+  </section>
+  <footer>
+    <p>&copy; 2023 Temas Ambientales. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
+```
+
+Este código HTML crea un sitio web con una estructura de encabezado, navegación, secciones de contenido y un pie de página. Cada sección aborda uno de los temas solicitados, presentando la información de manera fluida y narrativa, con el objetivo de informar y generar conciencia sobre estos importantes temas ambientales.
+
+Puedes personalizar aún más el diseño, el contenido y la estructura según tus necesidades.
